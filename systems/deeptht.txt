@@ -1,13 +1,13 @@
 System Name	Deepthought
 UUCP Name(s)	deeptht
-Start Year	?
-Last Seen	?
-Active?	maybe
-URL(s)	http://deepthought.armory.com
-Operating System(s)	?
-Web Server  ?
-Hardware	?
+Start Year	1990
+Last Seen	2023
+Active?	yes
+URL(s)	http://www.armory.com
+Operating System(s)	SCO UNIX 5.0.6
+Web Server  Roxen WebServer 2.1.265
+Hardware	AMD Opteron 4228HE
 Location	Santa Cruz, CA
-Key Figures	?
+Key Figures	John DuBois (spcecdt)	Bela Lubkin (filbo)
 Local Software	?
 Notes	Run out of The Armory, a Santa Cruz, CA "geek house"
